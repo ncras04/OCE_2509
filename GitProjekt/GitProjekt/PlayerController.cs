@@ -8,6 +8,7 @@ namespace GitProjekt
 {
     internal class PlayerController
     {
-
+        int _hp;
+        int _atk;
     }
 }
