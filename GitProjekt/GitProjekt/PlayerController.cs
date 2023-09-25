@@ -10,5 +10,8 @@ namespace GitProjekt
     {
         int _hp;
         int _atk;
+
+        int _def;
+        
     }
 }
