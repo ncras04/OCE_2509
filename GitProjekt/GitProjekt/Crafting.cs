@@ -9,6 +9,6 @@ namespace GitProjekt
     internal class Crafting
     {
         string Item = " ";
-        int maxItem = 100;
+        int maxItem = 1000;
     }
 }
