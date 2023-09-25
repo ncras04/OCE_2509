@@ -12,6 +12,7 @@ namespace GitProjekt
         int _atk;
 
         int _def;
-        
+
+        int _spd;
     }
 }
