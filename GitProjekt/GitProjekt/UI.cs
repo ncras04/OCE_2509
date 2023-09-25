@@ -9,7 +9,8 @@ namespace GitProjekt
     internal class UI
     {
         public UI() {
-            
+            string text = "Bagpack";
+            Console.WriteLine(text);
         }
     }
 }
