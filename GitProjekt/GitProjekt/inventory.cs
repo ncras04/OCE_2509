@@ -8,5 +8,6 @@ namespace GitProjekt
 {
     class inventory
     {
+        int _maxItem;
     }
 }
